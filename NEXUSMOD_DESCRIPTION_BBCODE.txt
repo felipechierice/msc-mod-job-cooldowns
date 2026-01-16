@@ -35,7 +35,7 @@ I created this mod because I found the firewood job cooldown too long (8 hours).
 [list]
 [*]Optional reset buttons for each job
 [*]Toggle visibility in settings
-[*]Note: Phone still takes 1-2 in-game minutes to ring after reset
+[*][color=#ff6b6b][b]Important:[/b][/color] Phone takes 1-5 real-time minutes to ring after reset (game limitation)
 [/list]
 
 [b]Individual Control[/b]
@@ -124,7 +124,7 @@ All defaults match vanilla game timings:
 [size=5][b]Known Issues[/b][/size]
 
 [list]
-[*]Phone takes 1-2 in-game minutes to ring after resetting cooldown (normal game behavior)
+[*][b]Phone takes 1-5 real-time minutes to ring after resetting cooldown[/b] (normal game behavior, not a bug)
 [*]Some jobs require game progression to appear
 [/list]
 
