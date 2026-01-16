@@ -115,7 +115,7 @@ All defaults match or approximate vanilla timings:
 
 ## ⚠️ Known Issues
 
-- After resetting a cooldown, the phone may take 1-2 in-game minutes to ring (this is normal game behavior)
+- **Phone takes 1-5 real-time minutes to ring after resetting cooldown** (normal game behavior, not a bug)
 - Some jobs require game progression before they appear
 
 ## 🐛 Troubleshooting

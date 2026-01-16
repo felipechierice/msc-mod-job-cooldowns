@@ -101,8 +101,8 @@ The compiled DLL will be output to your game's `Mods` folder.
 - Some jobs require game progression to unlock
 
 ### Reset button doesn't work immediately
-- The phone may take a few minutes to ring after resetting
-- This is normal game behavior
+- **Phone takes 1-5 real-time minutes to ring after resetting**
+- This is normal game behavior, not a bug
 
 ### Settings not saving
 - Ensure MSCLoader has write permissions to the config folder
