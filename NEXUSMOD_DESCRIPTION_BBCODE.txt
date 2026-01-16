@@ -167,6 +167,8 @@ All defaults match vanilla game timings:
 Created by byomess
 Built with MSCLoader and .NET Framework 3.5
 
+[b]Source Code:[/b] [url=https://github.com/felipechierice/msc-mod-job-cooldowns]GitHub Repository[/url]
+
 [line]
 
 [size=5][b]Support[/b][/size]
