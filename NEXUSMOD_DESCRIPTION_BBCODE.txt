@@ -1,0 +1,186 @@
+[center][size=4][b]Job Cooldowns v1.1.0[/b][/size]
+[color=#ffa500]As with any mod that modifies game mechanics, it's recommended to backup your save before use.[/color][/center]
+
+[line]
+
+[size=6][b]Job Cooldowns[/b][/size]
+
+Configure cooldown times for all major jobs in My Summer Car. Make jobs available instantly, keep vanilla timings, or slow them down to match your playstyle.
+
+[line]
+
+[size=5][b]Features[/b][/size]
+
+[b]10 Configurable Jobs[/b]
+[list]
+[*]Firewood Delivery (Livaloinen)
+[*]5 Sewage Wells (each configurable independently)
+[*]Mummola (Grandmother's fish/grocery deliveries)
+[*]Farm Jobs (Haybale and combine work)
+[*]Jokke Moving
+[/list]
+
+[b]Real-Time Monitor[/b]
+[list]
+[*]Press Right Ctrl + J to toggle GUI
+[*]Color-coded timers (green = ready, red = waiting)
+[*]Job state indicators for Firewood job (Cooldown, Calling, etc.)
+[*]Phone bill warnings
+[*]Developer Mode for FSM state inspection
+[/list]
+
+[b]Instant Reset[/b]
+[list]
+[*]Optional reset buttons for each job
+[*]Toggle visibility in settings
+[*]Note: Phone still takes 1-2 in-game minutes to ring after reset
+[/list]
+
+[b]Individual Control[/b]
+[list]
+[*]Each job has its own slider (1-480 minutes)
+[*]Persistent settings
+[*]Configurable keybind
+[/list]
+
+[line]
+
+[size=5][b]Installation[/b][/size]
+
+[b]Requirements:[/b]
+[list]
+[*]My Summer Car (latest version)
+[*][url=https://www.nexusmods.com/mysummercar/mods/147]MSCLoader 0.5+[/url]
+[/list]
+
+[b]Steps:[/b]
+[list=1]
+[*]Install MSCLoader if you haven't already
+[*]Extract JobCooldowns.dll to your Mods folder
+[*]Launch the game
+[/list]
+
+[b]Mods Folder:[/b]
+[list]
+[*]Windows: [font=Courier New]C:\Program Files (x86)\Steam\steamapps\common\My Summer Car\Mods\[/font]
+[*]Linux: [font=Courier New]~/.steam/steam/steamapps/common/My Summer Car/Mods/[/font]
+[/list]
+
+[line]
+
+[size=5][b]Configuration[/b][/size]
+
+[list=1]
+[*]Open MSCLoader Settings (Ctrl + M → Settings)
+[*]Find "Job Cooldowns" in the mod list
+[*]Adjust sliders for each job
+[*]Enable/disable reset buttons and Developer Mode
+[*]Customize keybind if desired
+[/list]
+
+[line]
+
+[size=5][b]Usage[/b][/size]
+
+[b]Toggle Monitor:[/b] Right Ctrl + J (configurable)
+[b]Interact with GUI:[/b] Press ESC to show cursor
+
+[b]Display Info:[/b]
+[list]
+[*]"Available!" = Job ready for phone call
+[*]Time countdown = Minutes/hours until available
+[*]"Unavailable" = Job not unlocked yet in your save
+[/list]
+
+[line]
+
+[size=5][b]Default Cooldowns[/b][/size]
+
+All defaults match vanilla game timings:
+[list]
+[*]Firewood: 500 minutes (~8.3 hours)
+[*]Sewage Wells: 50 minutes each
+[*]Mummola: 150 minutes (~2.5 hours)
+[*]Farm: 100 minutes (~1.7 hours)
+[*]Jokke Moving: 167 minutes (~2.8 hours)
+[/list]
+
+[line]
+
+[size=5][b]Compatibility[/b][/size]
+
+[list]
+[*]Works with existing save games
+[*]Compatible with most other mods
+[*]Safe to install/uninstall anytime
+[*]No game file modifications
+[*]Minimal performance impact
+[/list]
+
+[line]
+
+[size=5][b]Known Issues[/b][/size]
+
+[list]
+[*]Phone takes 1-2 in-game minutes to ring after resetting cooldown (normal game behavior)
+[*]Some jobs require game progression to appear
+[/list]
+
+[line]
+
+[size=5][b]Troubleshooting[/b][/size]
+
+[b]Jobs showing "Unavailable"?[/b] → Complete in-game requirements to unlock the job
+[b]Reset button not working?[/b] → Enable "Show Reset Buttons" in settings
+[b]Settings not saving?[/b] → Check MSCLoader has write permissions
+
+[line]
+
+[size=5][b]Changelog[/b][/size]
+
+[b]Version 1.1.0[/b]
+[list]
+[*]Added real-time job state monitoring (Firewood job)
+[*]Added Developer Mode with verbose logging and FSM state inspection
+[*]Added phone bill warning system
+[*]Enhanced GUI footer with usage instructions
+[*]Fixed icon loading in MSCLoader menu
+[*]Fixed JobId comparison bug
+[*]Fixed GUI alignment issues
+[*]Improved state name display (user-friendly names)
+[/list]
+
+[b]Version 1.0.0 (Initial Release)[/b]
+[list]
+[*]10 configurable job cooldowns
+[*]Real-time monitoring GUI with color-coded timers
+[*]Optional instant reset buttons
+[*]Balanced defaults matching vanilla game
+[*]Persistent settings
+[*]Draggable GUI window
+[/list]
+
+[line]
+
+[size=5][b]Credits[/b][/size]
+
+Created by byomess
+Built with MSCLoader and .NET Framework 3.5
+
+[line]
+
+[size=5][b]Support[/b][/size]
+
+Found a bug or have a suggestion? Post in the comments or bugs section.
+
+Please include:
+[list]
+[*]Game version
+[*]MSCLoader version
+[*]Other installed mods
+[*]Log file if experiencing crashes
+[/list]
+
+[line]
+
+[center]Take control of your job schedule and play My Summer Car your way.[/center]

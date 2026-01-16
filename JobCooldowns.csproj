@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net35</TargetFramework>
+    <AssemblyName>JobCooldowns</AssemblyName>
+    <RootNamespace>JobCooldowns</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    
+    <!-- Output directly to Mods folder -->
+    <OutputPath>..\..\Mods\</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <!-- Game installation path - adjust if needed -->
+    <GamePath>$(MSBuildProjectDirectory)\..\..</GamePath>
+    <ManagedPath>$(GamePath)\mysummercar_Data\Managed</ManagedPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- MSCLoader Reference -->
+    <Reference Include="MSCLoader">
+      <HintPath>$(ManagedPath)\MSCLoader.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <!-- Unity References -->
+    <Reference Include="UnityEngine">
+      <HintPath>$(ManagedPath)\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(ManagedPath)\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <!-- PlayMaker Reference -->
+    <Reference Include="PlayMaker">
+      <HintPath>$(ManagedPath)\PlayMaker.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Include all C# files -->
+    <Compile Include="**\*.cs" />
+    
+    <!-- Embed icon for mod menu -->
+    <EmbeddedResource Include="icon.png" />
+  </ItemGroup>
+
+</Project>

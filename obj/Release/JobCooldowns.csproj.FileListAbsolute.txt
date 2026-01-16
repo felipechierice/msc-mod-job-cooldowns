@@ -1,0 +1,7 @@
+/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods/JobCooldowns.dll
+/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods/JobCooldowns.pdb
+/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/obj/Release/JobCooldowns.csproj.AssemblyReference.cache
+/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/obj/Release/JobCooldowns.GeneratedMSBuildEditorConfig.editorconfig
+/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/obj/Release/JobCooldowns.csproj.CoreCompileInputs.cache
+/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/obj/Release/JobCooldowns.dll
+/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/obj/Release/JobCooldowns.pdb

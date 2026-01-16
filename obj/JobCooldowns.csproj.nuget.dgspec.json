@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/JobCooldowns.csproj": {}
+  },
+  "projects": {
+    "/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/JobCooldowns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/JobCooldowns.csproj",
+        "projectName": "JobCooldowns",
+        "projectPath": "/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/JobCooldowns.csproj",
+        "packagesPath": "/home/byomess/.nuget/packages/",
+        "outputPath": "/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/byomess/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

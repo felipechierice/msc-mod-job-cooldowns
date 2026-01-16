@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ku1d5bjhb98=",
+  "success": true,
+  "projectFilePath": "/home/byomess/.local/share/Steam/steamapps/common/My Summer Car/Mods_dev/JobCooldowns/JobCooldowns.csproj",
+  "expectedPackageFiles": [
+    "/home/byomess/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/byomess/.nuget/packages/microsoft.netframework.referenceassemblies.net35/1.0.3/microsoft.netframework.referenceassemblies.net35.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
