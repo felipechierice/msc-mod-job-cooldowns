@@ -7,6 +7,8 @@
 
 Configure cooldown times for all major jobs in My Summer Car. Make jobs available instantly, keep vanilla timings, or slow them down to match your playstyle.
 
+I created this mod because I found the firewood job cooldown too long (8 hours). With limited gaming time, waiting that long made the game less enjoyable for me. Now I can reduce it to 2 hours for a more relaxed gameplay experience.
+
 [line]
 
 [size=5][b]Features[/b][/size]
